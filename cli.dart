@@ -95,6 +95,8 @@ void main()
    const SL_MOUSE_BUTTON_7 = 6;
    const SL_MOUSE_BUTTON_8 = 7;
    const SL_MOUSE_BUTTON_LEFT = SL_MOUSE_BUTTON_1;
+   const SL_MOUSE_BUTTON_RIGHT = SL_MOUSE_BUTTON_2;
+   const SL_MOUSE_BUTTON_MIDDLE = SL_MOUSE_BUTTON_3;
    
    //Init Functions
    
