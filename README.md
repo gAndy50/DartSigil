@@ -10,6 +10,9 @@ This software is provided as-is. There is no warranty for this software. You use
 # Example
 
 ```dart
+import 'dart:ffi';
+import 'package:ffi/ffi.dart';
+
 void main(){
 	slWindow(800,600,'Hello Sigil - Click X to close'.toNativeUtf8(),0);
 			
