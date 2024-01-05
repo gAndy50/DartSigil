@@ -2,7 +2,7 @@
 //Written By Andy P.
 //Icy Viking Games
 //using FFI for Dart
-//Copyright(c) 2023
+//Copyright(c) 2024
 
 import 'dart:ffi';
 import 'package:ffi/ffi.dart';
